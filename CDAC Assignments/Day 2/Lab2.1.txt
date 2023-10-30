@@ -1,0 +1,16 @@
+1:Create MathOperation class,create overloaded  add method for accepting different data type and show addition (use:Function Overloading)
+Write method accepting variable arguments of type int and show sum of all elements(use:varargs)
+
+Create tester class and call methods from MathOperation class.
+
+
+2:Create a menu driven program for performing operations on array;
+1:Show Array
+2:Add element
+3:search element
+4:doubleArrayElement
+5:sortArray
+
+
+
+  
