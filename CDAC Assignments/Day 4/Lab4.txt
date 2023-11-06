@@ -1,0 +1,33 @@
+Revise all Demos from theory session
+
+1.1:Create a class Point2D ,    : for representing a point in x-y co-ordinate system.
+
+1.2 Create a parameterized constructor to initialize x & y co-ords.
+
+1.3 Add a method toString return string form of  point's x & y co-ords
+
+1.4 Create a tester class and test Point2D class.
+1.5 Create a array to store 5 objects.Create menu driven program 
+    1:show all 2:add new 
+
+
+
+2.1:Create Showroom application for Vehicle management
+2.2:create a class with data members(id,name,color,price)
+2.3 create constructor to initialize data member
+2.4 add disscount as static data member in Vehicle class 
+2.5 use static block to assign.
+2.6 create getter setter and override  toString()(hint:show disccount)
+2.7 create tester class....create array to store 10 vechile...create menu driven program 1:show all 2:add vehicle...3:edit color 4:edit price 5:remove 
+
+
+
+
+
+
+
+
+
+
+
+
