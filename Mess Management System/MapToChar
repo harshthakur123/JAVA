@@ -1,0 +1,10 @@
+CustomerId=101, firstname=harsh, lastname=Thakur, email=harsh1.dac@iacsd.com, Address=Pune, PhoneNumber=2285456542, final_amount=3000.0, registrationDate=2023-11-08, planEndDate=2023-12-08, plan=MONTHLY
+CustomerId=102, firstname=Mayank, lastname=Verma, email=mayank1.dac@gmail.com, Address=Raipur, PhoneNumber=9099876523, final_amount=11700.0, registrationDate=2023-11-07, planEndDate=2024-02-07, plan=QUATERLY
+CustomerId=103, firstname=Akash, lastname=Verma, email=akash1.dac@gmail.com, Address=Akurdi, PhoneNumber=9034876523, final_amount=17500.0, registrationDate=2024-01-23, planEndDate=2024-07-23, plan=HALFYEARLY
+CustomerId=104, firstname=suraj, lastname=Parate, email=suraj1.dac@gmail.com, Address=Mowa, PhoneNumber=9099877623, final_amount=32000.0, registrationDate=2024-01-07, planEndDate=2025-01-07, plan=YEARLY
+CustomerId=105, firstname=mudit, lastname=Sharma, email=mudit1.dac@gmail.com, Address=Mumbai, PhoneNumber=9034876523, final_amount=11700.0, registrationDate=2023-11-17, planEndDate=2024-02-17, plan=QUATERLY
+CustomerId=106, firstname=Tushar, lastname=Dhruw, email=mayank1.dac@gmail.com, Address=Delhi, PhoneNumber=9099876343, final_amount=3000.0, registrationDate=2023-12-12, planEndDate=2024-01-12, plan=MONTHLY
+CustomerId=107, firstname=Tanu, lastname=Sahu, email=tanu1.dac@gmail.com, Address=Akurdi, PhoneNumber=9029876523, final_amount=17500.0, registrationDate=2023-11-07, planEndDate=2024-05-07, plan=HALFYEARLY
+CustomerId=108, firstname=Rahul, lastname=Verma, email=rahul1.dac@gmail.com, Address=Mowa, PhoneNumber=9099876453, final_amount=3000.0, registrationDate=2023-11-17, planEndDate=2023-12-17, plan=MONTHLY
+CustomerId=109, firstname=Rishi, lastname=Tripathi, email=rishi1.dac@gmail.com, Address=Pune, PhoneNumber=9099876233, final_amount=32000.0, registrationDate=2023-11-30, planEndDate=2024-11-30, plan=YEARLY
+CustomerId=110, firstname=Renu, lastname=Mishra, email=renu1.dac@gmail.com, Address=Rawet, PhoneNumber=9099876231, final_amount=3000.0, registrationDate=2023-09-01, planEndDate=2023-10-01, plan=MONTHLY
